@@ -1,6 +1,10 @@
 # FinPilot
 
-**Personal Finance Decision Support Agent** — built for a 20-hour Agentic AI Hackathon.
+**Personal Finance Decision Support Agent** — built for a 36-hour Agentic AI Hackathon.
+
+## 🚀 Live Demo
+
+[**Try FinPilot Live →**](https://finpilot-hackathon.streamlit.app/)
 
 ## Problem
 
